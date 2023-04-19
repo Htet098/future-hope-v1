@@ -1,0 +1,18 @@
+* {
+    font-family: comic sans ms;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-color {
+    color: #3670c2;
+}
+
+.bg-color {
+    background-color: #f0c581;
+}
+
+.fs-7 {
+    font-size: 1.2rem;
+}
